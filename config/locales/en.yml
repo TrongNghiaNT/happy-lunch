@@ -30,4 +30,5 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  orders:
+    valid_lunch_time: "Lunch time can't be in the past"
